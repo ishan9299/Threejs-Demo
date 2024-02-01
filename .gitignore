@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Webpack
+dist/
+build/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+.pnpm
+pnpm-lock.yaml
+yarn-error.log
+.idea/
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
